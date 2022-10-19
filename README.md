@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zain-Masroor
-- 👀 I’m interested in building better functions
+- 👀 I’m interested in building code efficent functions
 - 🌱 I’m currently learning data structures and algorithm
 - 💞️ I’m looking to collaborate on beginner friendly projects
 - 📫 How to reach me @zmasroor99@gmail.com
